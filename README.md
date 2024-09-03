@@ -34,3 +34,7 @@ An aspiring indie-developer who likes to craft things, from games all the way to
 
 
 <br />
+
+<p align="center">
+  <img src="borderREADME-export.png" alt="banner image" width="" height="300">
+</p>
