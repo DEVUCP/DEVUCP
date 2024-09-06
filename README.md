@@ -1,7 +1,7 @@
 # ☄️ TheUCP
 
 <p align="center">
-  <img src="spray can.png" alt="banner image" width="" height="300">
+  <img src="spray can.png" alt="banner image" width="" height="">
 </p>
 
 ``Indie Game Developer | Compuer Science student | Artist | Composer``
