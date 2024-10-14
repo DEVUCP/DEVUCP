@@ -15,9 +15,9 @@ An aspiring indie-developer who likes to craft things, from games all the way to
 ## Languages and tools
 
 
+<img align="left" alt="discordpy" width="90px" style="padding-right:60px" src="https://devicons.railway.app/i/discord-py.svg"/>
 
-
-<img align="left" alt="Python" width="90px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Python" width="90px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 <img align="left" alt="C++" width="90px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 
