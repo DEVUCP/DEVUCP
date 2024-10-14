@@ -36,8 +36,8 @@ An aspiring indie-developer who likes to craft things, from games all the way to
 <img  align="left" alt="Bash" width="90px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
 
-<br />
+---
 
-<p align="center">
+<div align="center">
   <img src="borderREADME-export.png" alt="banner image" width="" height="300">
-</p>
+</div>
