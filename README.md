@@ -12,7 +12,7 @@ An aspiring indie developer who likes to craft things, from games all the way to
 
 ## Languages and Tools
 
-<p align="left">
+<span>
   <img alt="discordpy" width="90px" style="padding-right:60px;" src="https://devicons.railway.app/i/discord-py.svg"/>
   <img alt="Python" width="90px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="C++" width="90px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -22,7 +22,7 @@ An aspiring indie developer who likes to craft things, from games all the way to
   <img alt="GitHub" width="90px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img alt="Bash" width="90px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img alt="Linux" width="90px" style="padding-right:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-</p>
+</span>
 
 <br/><br/>
 
