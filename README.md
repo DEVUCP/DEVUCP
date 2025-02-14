@@ -71,4 +71,3 @@
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/DEVUCP/DEVUCP/output/snake.svg" alt="Snake animation" />
